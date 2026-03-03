@@ -5,7 +5,7 @@ MSc Interdisciplinary Science student at ETH Zürich, working at the intersectio
 ## What I'm currently working on
 
 - **Model distillation for remote sensing** — compressing foundation models to run on edge devices (PyTorch, Lightning)
-- **[Ancestree.ch](https://ancestree.ch)** — open-source fullstack platform for collaborative family history and photobook generation
+- **[ancestree.ch](https://ancestree.ch)** — open-source fullstack platform for collaborative family history and photobook generation
 
 ## Research background
 
